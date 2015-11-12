@@ -44,7 +44,7 @@
             android:textColor="@color/abc_primary_text_disable_only_material_dark"
 
             android:id="@+id/contact_user_status"
-         />
+         
 
     </LinearLayout>
 
